@@ -1,6 +1,6 @@
 # Transformar lista de imagens em arquivo de texto
 
-Esse repositório transforma um ou múltiplos arquivos de imagem em um arquivo de texto usando python3 e o Tesseract
+Esse repositório transforma um ou múltiplos arquivos de imagem em um arquivo de texto usando python3 e  Tesseract
 
 baseado no código de [Hemilibeatriz](https://github.com/Hemilibeatriz/ImagetoText) clique para ver o repositório
 
@@ -22,7 +22,7 @@ baseado no código de [Hemilibeatriz](https://github.com/Hemilibeatriz/ImagetoTe
 
 - exemplo
 
-<img src="" alt="exemplo">
+<img src="https://github.com/parlandin/imagens-to-text-script/blob/ab8467b9bd8041efcc367f30076a837eab5333ca/exe.jpeg" alt="exemplo">
 
 
 # Tecnologias usadas
